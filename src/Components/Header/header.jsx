@@ -11,7 +11,7 @@ function Header() {
                 <img className='img1' src={aa} alt="" />
 
                 <div className='div-p' >
-                    <p>Home</p>
+                    <p>Homee</p>
                     <p>How we work</p>
                     <p>Our team</p>
                     <p>Pricing</p>
